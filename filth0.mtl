@@ -1,0 +1,12 @@
+# Blender 3.6.3 MTL File: 'None'
+# www.blender.org
+
+newmtl Zombie.bmp
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Steam/steamapps/workshop/content/4000/2871071469/2871071469_via_crowbar/materials/models/ultrakill/characters/enemies/lesser/filth/zombie_meleehusk.png
