@@ -1,11 +1,7 @@
 import base64
 
 Files = [
-    "soul_fire_flame.png",
-    "Lava.png",
-    "flash.png",
-    "flame.png",
-    "electric_spark.png",
+    "end_rod_atlas.png",
 ]
 
 for n in Files:
